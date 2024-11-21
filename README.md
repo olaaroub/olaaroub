@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm deeply interested in software development and continuously strive to improve my skills, explore new technologies.<br>🎲 Fun fact:  programming like a game of chess, where debugging is the ultimate puzzle and every line of code is a move toward victory!" 🎮💻 <br>📫 Reach me on: https://www.linkedin.com/in/oussama-laaroubi-607579307/</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm deeply interested in software development and continuously strive to improve my skills, explore new technologies.<br>🎲 Fun fact:  programming like a game of chess, where debugging is the ultimate puzzle and every line of code is a move toward victory!" 🎮💻 <br>📫 Reach me on: https://www.linkedin.com/in/oussamalaaroubi</p>
 
 ###
 
