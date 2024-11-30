@@ -31,9 +31,6 @@ Here are some ideas to get you started:
   <img height="200" src="https://user-images.githubusercontent.com/63449913/132381820-24d326af-140d-46da-87db-f53c5871de32.gif"  />
 </div>
 
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/olaaroub" alt="olaaroub's 42 stats" /></a>
-</div>
 
 ###
 
@@ -57,6 +54,12 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/olaaroub?1337Badge=off" alt="olaaroub's 42 stats" /></a>
 </div>
 
 ###
