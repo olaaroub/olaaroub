@@ -31,6 +31,10 @@ Here are some ideas to get you started:
   <img height="200" src="https://user-images.githubusercontent.com/63449913/132381820-24d326af-140d-46da-87db-f53c5871de32.gif"  />
 </div>
 
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/olaaroub" alt="olaaroub's 42 stats" /></a>
+</div>
+
 ###
 
 <p align="left">✨ Creating bugs since 2021<br>📚 I'm deeply interested in software development and continuously strive to improve my skills, explore new technologies.<br>🎲 Fun fact:  programming like a game of chess, where debugging is the ultimate puzzle and every line of code is a move toward victory!" 🎮💻 <br>📫 Reach me on: https://www.linkedin.com/in/oussamalaaroubi</p>
